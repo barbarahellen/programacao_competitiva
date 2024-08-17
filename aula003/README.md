@@ -7,11 +7,6 @@ A estrutura de dados refere-se à organização e armazenamento de dados de form
 **Organização:** permitem uma melhor organização e gerenciamento de dados em aplicações complexas.
 
 Tipos:
-- Queue
-- Stack
-- Priority Queue
-- Set
-- Map
 
 ## Pair: 
 Um par é uma estrutura de dados simples que armazena dois elementos.
