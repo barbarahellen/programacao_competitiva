@@ -6,11 +6,11 @@ Formalmente, temos que: <br>
 pref[i] = $\sum_{k=1}^{i}$ v[k]
 
 exemplo: 
-vetor = 1 4 5 10 3 13
-i-ésimo prefixo de um vetor: todos os valores desde a 1ª posição até a i-ésima posição.
+vetor = 1 4 5 10 3 13 <br>
+i-ésimo prefixo de um vetor: são todos os valores desde a 1ª posição até a i-ésima posição.<br>
 
-Soma de prefixos: é a soma de todos os valores que fazem parte de um prefixo do vetor.
-ex: soma do 5º prefixo = 1 + 4 + 5 + 10 + 3 = 23
+Soma de prefixos: é a soma de todos os valores que fazem parte de um prefixo do vetor.<br>
+ex: soma do 5º prefixo = 1 + 4 + 5 + 10 + 3 = 23<br>
 ````
 pref[i] = pref[i - 1] + v[i]  // o prefixo de i é igual ao prefixo anterior mais o valor da posição atual
 ````
