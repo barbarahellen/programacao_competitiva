@@ -25,7 +25,7 @@ int main(){
 ````
 
 # Busca binária
-Abusca binária é um agoritmo eficinente para encontrar um determinado elemento em uma lista ordenada. Ele funciona dividindo repetidamente a lista pela metade e descartando a metade onde certamente não está o elemento procurado
+A busca binária é um agoritmo eficiente para encontrar um determinado elemento em uma lista ordenada. Ele funciona dividindo repetidamente a lista pela metade e descartando a metade onde certamente não está o elemento procurado
 
 ![alt text](image-1.png)
 
